@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | MERN | Data Enthusiast</h3>
 
 <p align="center">
-  <img src="https://github.com/PrietyGoyal24/PrietyGoyal24/blob/main/developer-girl.jpeg?raw=true" alt="Developer illustration" width="200">
+  <img src="https://raw.githubusercontent.com/PrietyGoyal24/PrietyGoyal24/refs/heads/main/developer-girl.jpeg" width="200">
 </p>
 
 <p align="center">
