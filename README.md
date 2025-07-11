@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Prachi Garg</h1>
+<h1 align="center">Hi 👋, I'm Priety Goyal</h1>
 <h3 align="center">Full Stack Developer | MERN | Data Enthusiast</h3>
 
 <p align="center">
-  <img src="https://github.com/Prachigarg24/PrachiGarg24/blob/main/developer-girl.jpeg?raw=true" alt="Developer illustration" width="200">
+  <img src="https://github.com/PrietyGoyal24/PrietyGoyal24/blob/main/developer-girl.jpeg?raw=true" alt="Developer illustration" width="200">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PrachiGarg24&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=PrietyGoyal24&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
 ---
@@ -22,12 +22,12 @@ MERN stack is my playground — logic is my superpower 🧠⚙
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:prachigarg858@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <a href="mailto:priety2023@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://linkedin.com/in/prachigarg01" target="_blank">
+  <a href="www.linkedin.com/in/prietygoyal05" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/Prachigarg24" target="_blank">
+  <a href="https://github.com/PrietyGoyal24" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://drive.google.com/file/d/1MGbm3UX1FkPrBZLl1G3yQR7LISDmsGLC/view?usp=drivesdk" target="_blank">
@@ -62,14 +62,14 @@ MERN stack is my playground — logic is my superpower 🧠⚙
 ---
 ## 🚀 Featured Projects
 
-- 🔗 [*BestBuy Clone*](https://best-buy-clone-two.vercel.app/) – Responsive e-commerce website clone of BestBuy built using HTML, CSS, and JavaScript with Firebase Auth and localStorage cart.  
-- 🔗 [*SocialSynced*](https://4436-euiu.vercel.app/index.html) – Full-stack social media platform with real-time updates, authentication, and Chakra UI, built using MERN stack. 
-- 🔗 [*StudyGenie – AI-Powered Study Companion*](https://smart-study-genie-app.vercel.app/) – Smart study planner with OpenAI-powered schedules, flashcards, and quizzes built using MERN stack and Cron jobs. 
+- 🔗 [*Reebok Clone*](https://best-buy-clone-two.vercel.app/) – Responsive e-commerce website clone of Reebok built using HTML, CSS, and JavaScript with Firebase Auth and localStorage cart.  
+- 🔗 [*Twitter-clone*](https://4436-euiu.vercel.app/index.html) – Full-stack social media platform with real-time updates, authentication, and Chakra UI, built using MERN stack. 
+- 🔗 [*Voting App*](https://smart-study-genie-app.vercel.app/) – Smart study planner with OpenAI-powered schedules, flashcards, and quizzes built using MERN stack and Cron jobs. 
 ---
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrachiGarg24&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrietyGoyal24&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages">
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=PrachiGarg24&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=PrietyGoyal24&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
 </p>
-<p align="center"> <a href="https://github.com/PrachiGarg24/github-readme-streak-stats"> <img title="🔥 Streak Stats" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=PrachiGarg24&hide_border=true&theme=react&bg_color=0D1117" /> </a> </p> <p align="center"> <a href="https://github.com/PrachiGarg24/github-readme-stats"> <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PrachiGarg24&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" /> </a> </p> <p align="center"> <img src="https://img.shields.io/badge/Total%20Commits-1000%2B-success?style=for-the-badge&logo=github" alt="Total Commits Badge"> </p>
+<p align="center"> <a href="https://github.com/PrietyGoyal24/github-readme-streak-stats"> <img title="🔥 Streak Stats" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=PrietyGoyal24&hide_border=true&theme=react&bg_color=0D1117" /> </a> </p> <p align="center"> <a href="https://github.com/PrietyGoyal24/github-readme-stats"> <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PrietyGoyal24&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" /> </a> </p> <p align="center"> <img src="https://img.shields.io/badge/Total%20Commits-1000%2B-success?style=for-the-badge&logo=github" alt="Total Commits Badge"> </p>
