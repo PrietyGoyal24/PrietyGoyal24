@@ -14,6 +14,13 @@
 ### ⚡ About Me
 
 Eat. Code. Fix Bugs. Repeat. 🔁  
+ a passionate developer who turns ideas into reality with code.
+
+💻 Currently diving deep into JavaScript, React Native & backend with Node.js.  
+🚀 Building clean, real-world apps that actually solve problems.  
+🌱 Always learning, always leveling up — one bug at a time.
+
+✨ Let’s connect, build, and grow together!
 I break things just to build them better.  
 MERN stack is my playground — logic is my superpower 🧠⚙
 
