@@ -37,10 +37,10 @@ MERN stack is my playground — logic is my superpower 🧠⚙
   <a href="https://github.com/PrietyGoyal24" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://drive.google.com/file/d/1MGbm3UX1FkPrBZLl1G3yQR7LISDmsGLC/view?usp=drivesdk" target="_blank">
+  <a href="https://drive.google.com/file/d/1elCmoJThL_LTV2qfO7B6YulzpMCUjcvh/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-0077B5?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume">
   </a>
-  <a href="https://prachi-garg-portfolio-pulse.vercel.app/" target="_blank">
+  <a href="https://priety-goyal-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=wordpress&logoColor=white" alt="Portfolio">
   </a>
 </p>
@@ -69,9 +69,13 @@ MERN stack is my playground — logic is my superpower 🧠⚙
 ---
 ## 🚀 Featured Projects
 
-- 🔗 [*Reebok Clone*](https://best-buy-clone-two.vercel.app/) – Responsive e-commerce website clone of Reebok built using HTML, CSS, and JavaScript with Firebase Auth and localStorage cart.  
-- 🔗 [*Twitter-clone*](https://4436-euiu.vercel.app/index.html) – Full-stack social media platform with real-time updates, authentication, and Chakra UI, built using MERN stack. 
-- 🔗 [*Voting App*](https://smart-study-genie-app.vercel.app/) – Smart study planner with OpenAI-powered schedules, flashcards, and quizzes built using MERN stack and Cron jobs. 
+- 🔗 [*Reebok Clone*](https://steady-dasik-fea1e4.netlify.app/) – Responsive e-commerce website clone of Reebok built using HTML, CSS, and JavaScript with Firebase Auth and localStorage cart.  
+- 🔗 [*Twitter-clone*](https://fantastic-marigold-1240c3.netlify.app/) – Full-stack social media platform with authentication, and  HTML, CSS, and JavaScript with Firebase Auth and localStorage cart. 
+- 🔗 [*Voting App*](https://voting-website-right-now.vercel.app/) –  Developed a responsive web application enabling users to vote on local issues, enhancing public participation
+ in democracy.
+- 🔗 [*Subcription Hub - Subscribly*](https://subscribly-project-subscription-hub.vercel.app/) – Subscription management platform with modern UI design and backend integration. Features subscription tracking, user management, and analytics dashboard.
+
+
 ---
 ## 📊 GitHub Stats
 <p align="center">
