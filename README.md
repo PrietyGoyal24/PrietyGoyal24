@@ -13,7 +13,7 @@
 
 ### ⚡ About Me
 
-Eat. Code. Fix Bugs. Repeat. 🔁  
+ Code. Fix Bugs. Repeat. 🔁  
  a passionate developer who turns ideas into reality with code.
 
 💻 Currently diving deep into JavaScript, React Native & backend with Node.js.  
@@ -69,10 +69,10 @@ MERN stack is my playground — logic is my superpower 🧠⚙
 ---
 ## 🚀 Featured Projects
 
-- 🔗 [*Reebok Clone*](https://steady-dasik-fea1e4.netlify.app/) – Responsive e-commerce website clone of Reebok built using HTML, CSS, and JavaScript with Firebase Auth and localStorage cart.  
-- 🔗 [*Twitter-clone*](https://fantastic-marigold-1240c3.netlify.app/) – Full-stack social media platform with authentication, and  HTML, CSS, and JavaScript with Firebase Auth and localStorage cart. 
 - 🔗 [*Voting App*](https://voting-website-right-now.vercel.app/) –  Developed a responsive web application enabling users to vote on local issues, enhancing public participation
  in democracy.
+- 🔗 [*Twitter-clone*](https://fantastic-marigold-1240c3.netlify.app/) – Full-stack social media platform with authentication, and  HTML, CSS, and JavaScript with Firebase Auth and localStorage cart. 
+- 🔗 [*Reebok Clone*](https://steady-dasik-fea1e4.netlify.app/) – Responsive e-commerce website clone of Reebok built using HTML, CSS, and JavaScript with Firebase Auth and localStorage cart.  
 - 🔗 [*Subcription Hub - Subscribly*](https://subscribly-project-subscription-hub.vercel.app/) – Subscription management platform with modern UI design and backend integration. Features subscription tracking, user management, and analytics dashboard.
 
 
