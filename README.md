@@ -72,8 +72,8 @@ MERN stack is my playground — logic is my superpower 🧠⚙
 
 - 🔗 [*Voting App*](https://voting-website-right-now.vercel.app/) –  Developed a responsive web application enabling users to vote on local issues, enhancing public participation
  in democracy.
-- 🔗 [*Twitter-clone*](https://fantastic-marigold-1240c3.netlify.app/) – Full-stack social media platform with authentication, and  HTML, CSS, and JavaScript with Firebase Auth and localStorage cart. 
-- 🔗 [*Reebok Clone*](https://steady-dasik-fea1e4.netlify.app/) – Responsive e-commerce website clone of Reebok built using HTML, CSS, and JavaScript with Firebase Auth and localStorage cart.  
+- 🔗 [*Twitter*](https://fantastic-marigold-1240c3.netlify.app/) – Full-stack social media platform with authentication, and  HTML, CSS, and JavaScript with Firebase Auth and localStorage cart. 
+- 🔗 [*Mega-Mart*](https://mega-mart-project-ten.vercel.app/) – Developed an e-commerce web application “Mega Mart” with product browsing, categories, and deals.  
 - 🔗 [*Subcription Hub - Subscribly*](https://subscribly-project-subscription-hub.vercel.app/) – Subscription management platform with modern UI design and backend integration. Features subscription tracking, user management, and analytics dashboard.
 
 
