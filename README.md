@@ -38,7 +38,7 @@ MERN stack is my playground — logic is my superpower 🧠⚙
   <a href="https://github.com/PrietyGoyal24" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://drive.google.com/file/d/112vrvZ_tTMLhV4dfvnmzTvNkQ4j8h53F/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1qZLkLmgMqxciiOLAP2-IdAJ3-JnKINed/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-0077B5?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume">
   </a>
   <a href="https://priety-goyal-portfolio.vercel.app/" target="_blank">
